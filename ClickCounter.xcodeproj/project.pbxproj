@@ -96,6 +96,8 @@
 				TargetAttributes = {
 					CE16BD761D45228500F15DEA = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4R9FZTBJDJ;
+						DevelopmentTeamName = "Ian Kosen (Personal Team)";
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -293,6 +295,7 @@
 				CE16BD8B1D45228600F15DEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
